@@ -1,5 +1,7 @@
 .row {
+  color: white;
   margin-left: 20px;
+  cursor: pointer;
 }
 
 .row-posters {
